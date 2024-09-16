@@ -1,5 +1,5 @@
 ## Hi there 👋
-Meu nome e Miguel Sales
+Meu nome e Miguel
 Estou estudando na Alura
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
